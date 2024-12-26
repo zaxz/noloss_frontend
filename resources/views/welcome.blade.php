@@ -75,7 +75,7 @@
 
       <div class="h-screen bg-contain bg-no-repeat bg-center" style="background-image: url('/assets/img/header.webp')">
       </div>
-      
+
     </section>
 
     {{-- end heading section --}}
@@ -92,16 +92,6 @@
             Vel odio eius aut, laboriosam saepe earum, at esse eaque illum corrupti officia dolore ullam exercitationem, odit voluptatem recusandae aliquid dignissimos!
           </p>
         </div>
-        {{-- <div class="grid grid-rows-[auto_1fr] border lg:grid-cols-2 lg:grid-rows-none mb-20">
-          <div class="h-96 bg-contain bg-no-repeat " style="background-image: url('/assets/img/batik.png')">
-          </div>
-          <div class="flex flex-col items-center lg:p-0">
-            <p class="text-lg font-medium lg:text-2xl text-justify dark:text-gray-400">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Mollitia, laudantium nulla rerum assumenda expedita officiis qui ipsum! Ex veniam consequuntur tempora quo quos quidem debitis, sint officia atque animi repellendus. Quis suscipit recusandae nobis vitae temporibus eligendi nostrum dolorum quaerat accusantium, laboriosam facere molestias sequi quae exercitationem numquam dolor?
-              Vel odio eius aut, laboriosam saepe earum, at esse eaque illum corrupti officia dolore ullam exercitationem, odit voluptatem recusandae aliquid dignissimos!
-            </p>
-          </div>
-        </div> --}}
     </section>
     {{-- end about section --}}
 
@@ -186,10 +176,6 @@
     </section>
     {{-- end produk section --}}
 
-    {{--  kontak section --}}
-    {{-- <h2 class="text-4xl text-center font-bold dark:text-white pb-5" id="produk">Produk Kami</h2> --}}
-    {{-- end kontak section --}}
-    
   </main>
   <section class="py-20 flex flex-col justify-center items-center bg-emerald-100">
     <p class="text-xl text-center font-bold text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-cyan-400  dark:text-white pb-5" id="produk">CONNECT WITH US</p>
